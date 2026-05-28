@@ -1,4 +1,4 @@
-[<!-- HEADER -->
+<!-- HEADER -->
 <div align="center">
 
 ```
@@ -14,7 +14,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aliakbar+%F0%9F%91%8B;Vibe+Coder+%2F+Builder+%F0%9F%9A%80;Turning+ideas+into+products+%E2%9A%A1;AI+%2B+Code+%3D+Anything+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Aliakbar+%F0%9F%91%8B;Vibe+Coder+%2F+Builder+%F0%9F%9A%80;Turning+ideas+into+products+%E2%9A%A1;AI+%2B+Code+%3D+Anything+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 ---
 
 <!-- ABOUT -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ### `> whoami`
 
@@ -154,4 +154,3 @@ while alive:
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-](https://www.linkedin.com/in/muhammad-ali-akbar-rouf-bachas-b261392a1)
