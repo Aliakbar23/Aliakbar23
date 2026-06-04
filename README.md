@@ -71,12 +71,34 @@ while alive:
 ### `📊 Stats`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aliakbar23&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliakbar23&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliakbar23&theme=tokyo-night&hide_border=true&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF)](https://github.com/Aliakbar23)
+
 </div>
 
+---
+
+### `🧠 Skills`
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliakbar23&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&background=0d1117" />
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### `🔥 Streak`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aliakbar23&theme=tokyo-night&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+
 </div>
 
 ---
