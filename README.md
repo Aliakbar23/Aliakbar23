@@ -6,9 +6,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aliakbar23&color=00D4FF&style=flat-square&label=views)](https://github.com/Aliakbar23)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aliakbar23&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Aliakbar23)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aliakbar23?style=flat-square&color=00D4FF&logo=github&label=followers&cacheSeconds=86400)](https://github.com/Aliakbar23?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Aliakbar23?style=for-the-badge&color=00D4FF&logo=github&label=FOLLOWERS&cacheSeconds=86400)](https://github.com/Aliakbar23?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Aliakbar23?style=for-the-badge&color=00D4FF&logo=github&label=STARS&cacheSeconds=86400)](https://github.com/Aliakbar23?tab=repositories)
 
 </div>
 
