@@ -60,7 +60,9 @@ while alive:
 
 | | Project | Stack | Link |
 |:-:|:--|:--|:--:|
-| 💰 | **Dompetku** — expense tracker with struk scan | `HTML` `Apps Script` `Google Sheets` | [→ Live](https://YOUR-VERCEL-URL.vercel.app) |
+| 💰 | **Dompetku** — expense tracker with struk scan | `HTML` `Apps Script` `Google Sheets` | [→ Live](https://moneycontrol-v-3.vercel.app/) |
+| 🌐 | **Portfolio** — personal portfolio web developer & data enthusiast | `React` `Next.js` `Tailwind CSS` | [→ Live](https://ali-three-beta.vercel.app/) |
+| 📖 | **My Journey** — learning journey & progress log | `HTML` `CSS` `JS` | [→ Live](https://my-journey-v-1.vercel.app/) |
 | 🤖 | **YouTube Automation** — AI-powered workflow | `Python` `AI` | WIP |
 | 🔨 | **More coming...** | `Vibe Coding` | soon |
 
