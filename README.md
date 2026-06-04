@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aliakbar23&color=00D4FF&style=flat-square&label=views)](https://github.com/Aliakbar23)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aliakbar23?color=00D4FF&style=flat-square&logo=github&label=followers)](https://github.com/Aliakbar23)
+[![GitHub followers](https://img.shields.io/github/followers/Aliakbar23?style=flat-square&color=00D4FF&logo=github&label=followers&cacheSeconds=86400)](https://github.com/Aliakbar23?tab=followers)
 
 </div>
 
