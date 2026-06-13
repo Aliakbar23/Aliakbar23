@@ -16,7 +16,7 @@
 
 ---
 
-### `> whoami`
+### `> Hai`
 
 ```yaml
 name       : Ali Akbar
