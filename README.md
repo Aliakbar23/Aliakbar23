@@ -124,13 +124,6 @@ class AliAkbar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aliakbar23&show_icons=true&theme=tokyo-night&hide_border=true&title_color=00D4FF&icon_color=ff2d78&text_color=ffffff&bg_color=0a0a0f" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliakbar23&layout=compact&theme=tokyo-night&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0a0a0f" />
-
-</div>
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aliakbar23&theme=tokyo-night&hide_border=true&color=00D4FF&line=7c3aed&point=ff2d78&area=true&area_color=00D4FF)](https://github.com/Aliakbar23)
 
 </div>
