@@ -141,13 +141,14 @@ class AliAkbar:
 ---
 
 ### `🏆 Achievements`
- 
+
 <div align="center">
-![Vibe Coder](https://img.shields.io/badge/🚀_Vibe_Coder-Ship_Fast-00D4FF?style=for-the-badge)
-![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-Powered_by_Claude-CC785C?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/🧰_ToolboxID-Building_for_Indonesia-7c3aed?style=for-the-badge)
-![Self Taught](https://img.shields.io/badge/📚_Self_Taught-Always_Learning-ff2d78?style=for-the-badge)
- 
+
+![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-Ship_Fast-00D4FF?style=for-the-badge)
+![AI Builder](https://img.shields.io/badge/AI_Builder-Powered_by_Claude-CC785C?style=for-the-badge)
+![ToolboxID](https://img.shields.io/badge/ToolboxID-Building_for_Indonesia-7c3aed?style=for-the-badge)
+![Self Taught](https://img.shields.io/badge/Self_Taught-Always_Learning-ff2d78?style=for-the-badge)
+
 </div>
 
 ---
